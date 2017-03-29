@@ -8,7 +8,7 @@ I plotted the average number of home runs made by each height group categorised 
 I am using a bar chart for this visualisation as it makes comparison very intuitive. Earlier I was using scatter plot, which gave the feel of a continuous x-axis(height) and made it difficult to make comparison through heights of players.
 
 ## Feedback
-1. One eperson recommended me to make the graph comparative. Initially I was showing different categories of "handedness", one per view, and their was no way to compare their performance through a single view.
+1. One person recommended me to make the graph comparative. Initially I was showing different categories of "handedness", one per view, and their was no way to compare their performance through a single view.
 2. One reviewer told me that he thought that the heights(x-axis) suggested continuation, but on closer look looked categorised. This was due to the fact that I was using scatter plot instead of bar chart.
 3. Some other person told me that the viewer should have the option to pause the animation. Earlier I was animating the graph from the beginning with no option to pause it. 
 
